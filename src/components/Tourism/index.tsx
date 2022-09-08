@@ -28,11 +28,14 @@ export function Tourism() {
         freeMode={true}
         loop={true}
         centeredSlides={true}
+      // slidesPerView={1}
       >
         {
           Places.map(place => {
             return (
-              <SwiperSlide>
+              <SwiperSlide
+                key={place.title}
+              >
                 <Card
                   key={place.title}
                   title={place.title}

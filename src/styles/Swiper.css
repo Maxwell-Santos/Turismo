@@ -1,18 +1,25 @@
 .swiper{
   flex: 40% 300px .4;
-  max-height: 600px;
+  /* height: 100vh; */
   height: 100vh;
+  max-height: 600px;
   overflow: hidden;
   padding: 10px;
   
-  @media (max-width: 700px){
-    position: absolute;
-    bottom: 0;
-    height: 600px;
-  }
 }
 
 .swiper-slide{
   display:grid;
   place-items: center;
+}
+
+@media (max-width: 700px){
+  .swiper{
+    width: 100%;
+  }
+}
+@media (max-width: 425px){
+  .swiper{
+    max-height: 300px;
+  }
 }
