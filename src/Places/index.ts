@@ -10,17 +10,7 @@ export type PlaceTypes = {
 }[]
 
 export const Places = [
-  {
-    title: "Cataratas do Iguaçu",
   
-    indice: "Visite a Maravilha Mundial da Natureza e viva as mais raras experiências de contato com a natureza, no maior conjunto de quedas d'água do mundo, na cidade de Foz do Iguaçu, Paraná. Cataratas do Iguaçu está localizada no Parque Nacional do Iguaçu, Patrimônio Natural da Humanidade.",
-   
-    banner: "https://cdn-cdiei.nitrocdn.com/pdEjJuWXoJYPglbSFwisVLmBuJVcXiGi/assets/static/optimized/rev-9dd26c9/wp-content/uploads/2017/11/vista-cataratas-do-iguacu-scaled-1.jpg",
-    
-    // video: "https://youtu.be/5PwkNG5gt3Q",
-  
-    exploreButton: "https://cataratasdoiguacu.com.br/",
-  },
   {
     title: "Gramado",
   
@@ -31,6 +21,17 @@ export const Places = [
     // video: "https://youtu.be/5PwkNG5gt3Q",
   
     exploreButton: "http://www.gramado.com.br/",
+  },
+  {
+    title: "Cataratas do Iguaçu",
+  
+    indice: "Visite a Maravilha Mundial da Natureza e viva as mais raras experiências de contato com a natureza, no maior conjunto de quedas d'água do mundo, na cidade de Foz do Iguaçu, Paraná. Cataratas do Iguaçu está localizada no Parque Nacional do Iguaçu, Patrimônio Natural da Humanidade.",
+   
+    banner: "https://cdn-cdiei.nitrocdn.com/pdEjJuWXoJYPglbSFwisVLmBuJVcXiGi/assets/static/optimized/rev-9dd26c9/wp-content/uploads/2017/11/vista-cataratas-do-iguacu-scaled-1.jpg",
+    
+    // video: "https://youtu.be/5PwkNG5gt3Q",
+  
+    exploreButton: "https://cataratasdoiguacu.com.br/",
   },
   {
     title: "Pão de Açucar",

@@ -1,5 +1,5 @@
 import { ThemeProvider } from "styled-components";
-import { Turism } from "./components/Turism";
+import { Tourism } from "./components/Tourism";
 import { PlaceProvider } from "./PlacesContext";
 import GlobalStyle from "./styles/global";
 import dft from "./styles/themes/default";
@@ -10,7 +10,7 @@ export function App() {
     <ThemeProvider theme={dft}>
       <GlobalStyle/>
       <PlaceProvider>
-        <Turism />
+        <Tourism />
       </PlaceProvider>
     </ThemeProvider>
   )
