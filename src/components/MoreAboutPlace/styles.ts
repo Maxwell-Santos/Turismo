@@ -69,3 +69,53 @@ export const Paragraph = styled.p`
   line-height: 1.5em;
   font-weight: 300;
 `;
+
+export const ButtonVisit = styled.a`
+  text-decoration: none;
+  appearance: none;
+
+  padding: .7rem;
+  background: rgba(255,255,255,0.8);
+  color: #222;
+  font-weight: 400;
+  letter-spacing: 2px;
+  
+  width: 250px;
+  margin-top: 1rem;
+  border-radius: 1rem;
+  text-transform: uppercase;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  overflow: hidden;
+
+  transition: all ease .3s;
+
+  & span{
+    transform: translateX(12px);
+    transition: all ease .3s;
+
+  }
+
+  & .icon{
+    opacity: 0;
+    transform: translateX(100px);
+    transition: all ease .3s;
+  }
+  
+  &:hover span{
+    transform: translateX(0);
+  }
+  &:hover .icon{
+    opacity: 1;
+    transform: translateX(0);
+  }
+  
+  &:hover{
+  background: rgba(255,255,255,0.8);
+
+  }
+  
+`;

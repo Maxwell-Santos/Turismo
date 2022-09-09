@@ -20,8 +20,9 @@ export const Places = [
     
     // video: "https://youtu.be/5PwkNG5gt3Q",
   
-    exploreButton: "http://www.gramado.com.br/",
+    exploreButton: "https://www.google.com/search?q=gramado&rlz=1C1GCEU_pt-BRBR1019BR1019&tbm=lcl&sxsrf=ALiCzsbogiXFBgvFefOnVOPRiCDpk3ZplQ%3A1662680560678&ei=8H0aY_PaKObY1sQPmcG50Ag&oq=gramado&gs_l=psy-ab.3..35i39k1l2j0i433i67k1j0i512i433k1l2j0i67k1j0i512i433k1l2j0i433i131k1j0i512k1.18370.18908.0.19905.7.6.0.0.0.0.320.880.2-2j1.3.0....0...1c.1.64.psy-ab..4.3.879....0.x76XIMghtwE#rlfi=hd:;si:7954884899515945086,a;mv:[[-29.325796099999998,-50.8271641],[-29.4336563,-50.9057725]]",
   },
+
   {
     title: "Cataratas do Iguaçu",
   
@@ -31,8 +32,9 @@ export const Places = [
     
     // video: "https://youtu.be/5PwkNG5gt3Q",
   
-    exploreButton: "https://cataratasdoiguacu.com.br/",
+    exploreButton: "https://www.google.com/search?q=cataratas&rlz=1C1GCEU_pt-BRBR1019BR1019&oq=cataratas+&aqs=chrome..69i57j69i59j46i131i175i199i433i512l2j0i131i433i512j69i61l3.2016j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALiCzsbrcOMcZoUVCV8GcSTjkOqCM2z4Sw:1662680539603&rflfq=1&num=10&rldimm=2458009412926134244&lqi=CgljYXRhcmF0YXNIvOqWwPusgIAIWg8QABgAIgljYXRhcmF0YXOSAQ9uYXR1cmVfcHJlc2VydmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmhia3RYUWtaM0VBRQ&phdesc=oAqCDI9a9Q4&ved=2ahUKEwjNlcDXr4b6AhUCu5UCHU3cAw4QvS56BAgEEAE&sa=X&rlst=f#rlfi=hd:;si:2458009412926134244,l,CgljYXRhcmF0YXNIvOqWwPusgIAIWg8QABgAIgljYXRhcmF0YXOSAQ9uYXR1cmVfcHJlc2VydmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmhia3RYUWtaM0VBRQ,y,oAqCDI9a9Q4;mv:[[-25.5708648,-54.4285273],[-25.7408859,-54.54031140000001]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:1",
   },
+
   {
     title: "Pão de Açucar",
   
@@ -42,8 +44,9 @@ export const Places = [
     
     // video: "https://youtu.be/5PwkNG5gt3Q",
   
-    exploreButton: "https://www.paodeacucar.com/",
+    exploreButton: "https://www.google.com/search?q=p%C3%A3o+de+a%C3%A7ucar+rj&rlz=1C1GCEU_pt-BRBR1019BR1019&tbm=lcl&sxsrf=ALiCzsZGBk9Qqjqg8_KIL1CyV3MQNmyT_g%3A1662680641144&ei=QX4aY563COTQ1sQPhb6G8AE&oq=p%C3%A3o+&gs_l=psy-ab.3.1.35i39k1l2j0i512i433i131k1j0i433i67k1j0i512i433k1j0i67k1j0i433i67k1j0i512i433k1j0i433i131i67k1j0i512k1.28216.29044.0.30581.4.4.0.0.0.0.130.451.0j4.4.0....0...1c.1.64.psy-ab..0.4.450....0.zefh3L__u08",
   },
+
   {
     title: "Lençóis Maranhenses",
   
@@ -53,7 +56,7 @@ export const Places = [
     
     // video: "https://youtu.be/5PwkNG5gt3Q",
   
-    exploreButton: "https://www.paodeacucar.com/",
+    exploreButton: "https://www.google.com/search?q=len%C3%A7ois+maranhenses&rlz=1C1GCEU_pt-BRBR1019BR1019&tbm=lcl&sxsrf=ALiCzsbodyq0se7ZJudMKk5PkN7vybu3Aw%3A1662680700263&ei=fH4aY_nYD9zR1sQPwuWx8AI&oq=len%C3%A7ois+ma&gs_l=psy-ab.3.0.35i39k1j0i512k1l9.1420.1743.0.3046.3.3.0.0.0.0.125.340.0j3.3.0....0...1c.1.64.psy-ab..0.3.340...0i10i67k1j0i512i433i131k1j0i512i10k1j0i433i67k1j0i512i433k1j0i67k1.0.hMpj1q0UJGA#rlfi=hd:;si:3254015454942764011,l,ChRsZW7Dp29pcyBtYXJhbmhlbnNlc0jjg6UFWiIQABgAGAEiFGxlbsOnb2lzIG1hcmFuaGVuc2VzKgQIAhAAkgENbmF0aW9uYWxfcGFyaw,y,INrDt325Jzg;mv:[[-2.48575852268097,-43.128226853144135],[-2.48611847731903,-43.12858714685585]]",
   }
 ]
 
