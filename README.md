@@ -154,7 +154,7 @@ export function App() {
 ## Componentes internos
 
 - MoreAboutPlace
-Ele recebe como parâmetro o objeto do ponto turístico atual (que é passado pelo provider)
+<p>Ele recebe como parâmetro o objeto do ponto turístico atual (que é passado pelo provider)</p>
 
 ```tsx
 export function MoreAboutPlace({ crr }: MoreAboutPlaceInterface | any) {
@@ -183,8 +183,8 @@ export function MoreAboutPlace({ crr }: MoreAboutPlaceInterface | any) {
 ```
 
 - Card
-O Card, são os cards que ficam na lateral (ou embaixo no mobile), e eles são criados por meio da função <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map">.map()</a>, que executa alguma coisa em cada item do array e o modifica.
-Nesse caso, em cada item do array, ele criou um Card e o preencheu por props
+<p>O Card, são os cards que ficam na lateral (ou embaixo no mobile), e eles são criados por meio da função <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map">.map()</a>, que executa alguma coisa em cada item do array e o modifica.
+Nesse caso, em cada item do array, ele criou um Card e o preencheu por props</p>
 
 ```tsx
 import { PlaceContext } from '../../PlacesContext';
