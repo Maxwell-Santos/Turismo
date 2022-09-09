@@ -157,6 +157,13 @@ export function App() {
 <p>Ele recebe como parâmetro o objeto do ponto turístico atual (que é passado pelo provider)</p>
 
 ```tsx
+interface MoreAboutPlaceInterface {
+  title: string;
+  indice: string;
+  banner: string;
+  exploreButton: string;
+}
+
 export function MoreAboutPlace({ crr }: MoreAboutPlaceInterface | any) {
 
   return (
