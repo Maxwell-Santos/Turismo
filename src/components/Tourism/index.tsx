@@ -15,7 +15,6 @@ import '../../styles/Swiper.css';
 
 export function Tourism() {
   const { currentPlace } = useContext(PlaceContext)
-  //função que troca o lugar
 
   return (
     <Container>

@@ -36,7 +36,7 @@ export const Places = [
   },
 
   {
-    title: "Pão de Açucar",
+    title: "Pão de Açúcar",
   
     indice: "Monumento Natural dos Morros do Pão de Açúcar e da Urca é um complexo de morros localizado no bairro da Urca, na cidade do Rio de Janeiro, no Brasil. É composto pelo Morro do Pão de Açúcar e pelo Morro da Urca.",
    

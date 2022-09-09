@@ -5,10 +5,9 @@ import { PlaceContext } from '../../PlacesContext';
 
 interface CardInterface {
   title: string
-  indice: string
   banner: string
 }
-export function Card({ title, indice, banner }: CardInterface | any) {
+export function Card({ title, banner }: CardInterface | any) {
   const { changePlace } = useContext(PlaceContext)
 
   return (
