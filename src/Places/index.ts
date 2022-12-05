@@ -28,9 +28,9 @@ export const Places = [
   
     indice: "Visite a Maravilha Mundial da Natureza e viva as mais raras experiências de contato com a natureza, no maior conjunto de quedas d'água do mundo, na cidade de Foz do Iguaçu, Paraná. Cataratas do Iguaçu está localizada no Parque Nacional do Iguaçu, Patrimônio Natural da Humanidade.",
    
-    banner: "https://cdn-cdiei.nitrocdn.com/pdEjJuWXoJYPglbSFwisVLmBuJVcXiGi/assets/static/optimized/rev-9dd26c9/wp-content/uploads/2017/11/vista-cataratas-do-iguacu-scaled-1.jpg",
+    banner: "https://www.destino.foz.br/wp-content/uploads/2022/01/002-%E2%80%93-Cataratas-do-Iguacu.jpg",
     
-    // video: "https://youtu.be/5PwkNG5gt3Q",
+    // video: "https://www.youtube.com/watch?v=uNbgl_VHeiM",
   
     exploreButton: "https://www.google.com/search?q=cataratas&rlz=1C1GCEU_pt-BRBR1019BR1019&oq=cataratas+&aqs=chrome..69i57j69i59j46i131i175i199i433i512l2j0i131i433i512j69i61l3.2016j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALiCzsbrcOMcZoUVCV8GcSTjkOqCM2z4Sw:1662680539603&rflfq=1&num=10&rldimm=2458009412926134244&lqi=CgljYXRhcmF0YXNIvOqWwPusgIAIWg8QABgAIgljYXRhcmF0YXOSAQ9uYXR1cmVfcHJlc2VydmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmhia3RYUWtaM0VBRQ&phdesc=oAqCDI9a9Q4&ved=2ahUKEwjNlcDXr4b6AhUCu5UCHU3cAw4QvS56BAgEEAE&sa=X&rlst=f#rlfi=hd:;si:2458009412926134244,l,CgljYXRhcmF0YXNIvOqWwPusgIAIWg8QABgAIgljYXRhcmF0YXOSAQ9uYXR1cmVfcHJlc2VydmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmhia3RYUWtaM0VBRQ,y,oAqCDI9a9Q4;mv:[[-25.5708648,-54.4285273],[-25.7408859,-54.54031140000001]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:1",
   },

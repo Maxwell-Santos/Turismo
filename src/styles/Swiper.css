@@ -1,6 +1,5 @@
 .swiper{
   flex: 40% 300px .4;
-  /* height: 100vh; */
   height: 100vh;
   max-height: 600px;
   overflow: hidden;

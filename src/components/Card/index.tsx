@@ -4,8 +4,8 @@ import { Container } from "./styles";
 import { PlaceContext } from '../../PlacesContext';
 
 interface CardInterface {
-  title: string
-  banner: string
+  title: string;
+  banner: string;
 }
 export function Card({ title, banner }: CardInterface | any) {
   const { changePlace } = useContext(PlaceContext)

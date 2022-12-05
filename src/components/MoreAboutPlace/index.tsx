@@ -18,6 +18,7 @@ export function MoreAboutPlace({ crr }: MoreAboutPlaceInterface | any) {
   return (
     <Container>
       <img src={crr.banner} alt="banner" />
+
       <Content>
         <Title>{crr.title}</Title>
         <Paragraph>{crr.indice}</Paragraph>
